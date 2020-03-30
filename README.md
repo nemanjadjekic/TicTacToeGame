@@ -1,7 +1,7 @@
 # TicTacToeGame
 Tic-tac-toe Game written in Python 
 
-Udemy course (Python from Zero to Hero) - First Milestone 
+[Udemy course (Python from Zero to Hero)](https://www.udemy.com/share/101W8QBkcacF1XR3o=/) - First Milestone 
 
 `Assignment: Create a Tic Tac Toe game. You are free to use any IDE you like.`
 
